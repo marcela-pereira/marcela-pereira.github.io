@@ -46,6 +46,7 @@
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .profession {
@@ -59,6 +60,7 @@
 .left-title {
     color: #eeeeee;
     font-size: 20px;
+    text-align: center;
 }
 
 .contact-info ul {
